@@ -14,7 +14,7 @@
 	USER CODE BEGIN 2, //~~~~~~~~~~~~~~~~~~~~~~~~~~ Initialization code for LIS3DH control ~~~~~~~~~~~~~~~~~~~~~~~~~~
 	Configure code for device specific SPI interface.
 
-### 3 >> Copy SPI initilization code:
+### 3 >> Copy SPI initilization code (or modify STM32CubeMX configuration and regenerate):
 	/* SPI1 parameter configuration*/, //~~~~~~~~~~~~~~~~~~~~~~~~~~~ STM_HAL SPI initialization code for LIS3DH ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
