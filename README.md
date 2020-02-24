@@ -2,7 +2,7 @@
 
 #### Simple SPI driver (using STM_HAL) and example code for basic LIS3DH accelerometer & ADC read from STM_HAL supported devices.
 
-### All code is 1n main.c
+### All code is in main.c
 
 ### Copy/port the blocks below.  Blocks delimited by //~~~~~~~~~~~~~ comments
 
